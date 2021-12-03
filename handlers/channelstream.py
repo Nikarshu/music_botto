@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Weeb_Caffe_Music_botto_Project
+# Copyright (C) 2021 WCC_Music_botto_Project
 
 import json
 import os
